@@ -1,10 +1,10 @@
-package com.extend.homework;
+package com.extend.moviedb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HomeworkApplicationTests {
+class MovieDbApplicationTests {
 
     @Test
     void contextLoads() {
