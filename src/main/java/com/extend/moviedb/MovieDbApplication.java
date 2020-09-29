@@ -1,13 +1,13 @@
-package com.extend.homework;
+package com.extend.moviedb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HomeworkApplication {
+public class MovieDbApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HomeworkApplication.class, args);
+        SpringApplication.run(MovieDbApplication.class, args);
     }
 
 }
