@@ -9,3 +9,6 @@ In order to present the data, construct a backend REST API with two endpoints:
 2. `GET /movies/:id` This endpoint should show the details of the full movie object.
 
 Optionally you may add any searching or filtering on the GET /movies endpoint.
+
+
+Please submit the assignment in a zipped folder with a README that explains how to run it
